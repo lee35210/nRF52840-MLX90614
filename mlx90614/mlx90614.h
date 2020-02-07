@@ -8,7 +8,7 @@ extern "C" {
 #endif
 
 //If you use MLX90614xCx model, Must uncomment this macro.
-#define MLX90614xCx
+//#define MLX90614xCx
 
 //Used for calculating CRC-8(indicate transfer direction)
 #define MLX90614_Write  0
